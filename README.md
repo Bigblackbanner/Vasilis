@@ -30,6 +30,6 @@ A beautiful Wordpress theme, based on [Vasilis 3.0](http://www.aiwangxu.top)
       小工具边栏彩色标签云
       
       
-# 信息
-  网址：www.aiwangxu.top
+# 相关信息
+  Demo：www.aiwangxu.top
   来源：Vasilis's Blog
